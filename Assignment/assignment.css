@@ -1,0 +1,48 @@
+/* put your css code here */
+.crop-img{
+  max-height:300px;
+  max-width:100%;
+}
+.carousel-img{
+    margin: auto;
+    padding: 10px;
+    max-height:250px;
+    max-width: 100%;
+	display: block;
+}
+
+body{
+	color: #191970;
+}
+
+.page-header{
+	color: #B0C4DE;
+}
+
+.nav{
+	background-color: #B0C4DE;
+}
+
+.nav  a {
+	color:#191970;
+}
+
+.nav a:hover{
+	color: #B0C4DE;
+	background-color: #191970;
+	cursor: pointer;
+}
+
+.nav .nav-tabs .active{
+	color: #B0C4DE;
+	background-color: #191970;
+	cursor: pointer;
+}
+
+.album-thumbnail{
+	cursor:pointer;
+}
+
+.photo-thumbnail{
+	cursor: pointer;
+}
