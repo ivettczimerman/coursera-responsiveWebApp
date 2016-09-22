@@ -1,0 +1,41 @@
+@import url('bootstrap.min.css');
+
+.panel-footer {
+  background: black;
+}
+
+body{
+	height: 100vh;
+}
+.content{
+	max-height: 80%;
+}
+
+#person {
+	width: 100%;
+}
+.table-header {
+	font-size: x-large;
+	
+}
+
+.table-content {
+	font-size: medium;
+}
+
+td, th {
+	text-align: left;
+	padding: 1%;
+}
+
+table a, a:hover {
+	color: black;
+}
+
+table{
+	width: 100%;
+}
+
+.dropdown-header{
+	font-size: large;
+}
